@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SavvyNav2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Main_Entrance">Send</string>
+    <string name="title_activity_go_to_screen2">GoToScreen2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="i_apos_m_screen_1_main_xml">I\'m screen 1 (main.xml)</string>
+
+
+</resources>
